@@ -1,0 +1,7 @@
+{
+  "source": "https://archive.ics.uci.edu/static/public/350/default+of+credit+card+clients.zip",
+  "download_date": "2026-11-11",
+  "sha256_xls": "30c6be3abd8dcfd3e6096c828bad8c2f011238620f5369220bd60cfc82700933",
+  "rows": 30000,
+  "columns": 25
+}
